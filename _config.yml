@@ -30,14 +30,14 @@ author:
   fullname                  : Dayna
   rss                       : true # generate RSS feed and show it's icon in header
   mail                      : fangyutan@foxmail.com # change to your e-mail address
-  twitter                   : twitter-user-name
+  #twitter                   : twitter-user-name
   #github                    : github-user-name
   #youtube                   : youtube-user-name
   #stackoverflow             : stackoverflow-user-name
   #disqus                    : dactl # your disqus site name
-  google_analytics          : # 'UA-XXXXXXXX-X'
-  photo                     : "uploads/me2.png"
-  photo2x                   : "uploads/me.png"
+  #google_analytics          : # 'UA-XXXXXXXX-X'
+  #photo                     : "uploads/me2.png"
+  #photo2x                   : "uploads/me.png"
 
 
 
