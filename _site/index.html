@@ -67,79 +67,6 @@
 </header>
 <article class="blog">
 <style>
-  .welcome-to-dactl {
-    margin-bottom: 2em;
-  }
-  .welcome-to-dactl::before {
-    background-image: url('https://source.unsplash.com/collection/430471/');
-    background-size: cover;
-    -webkit-filter: grayscale(1) brightness(0.5) contrast(0.5);
-    content:'';
-    position:absolute;
-    width: 100%;
-    left: 0;
-    top: 0;
-    z-index: -2;
-  }
-  .welcome-to-dactl::after {
-    content:'';
-    position:absolute;
-    width: 100%;
-    left: 0;
-    top: 0;
-    background-color: rgba(255,0,100,0.8);
-    /*mix-blend-mode: darken;
-    mix-blend-mode: color-burn;
-    mix-blend-mode: hard-light;*/
-    mix-blend-mode: overlay;
-    z-index: -1;
-  }
-  .welcome-to-dactl-container,
-  .welcome-to-dactl-container::before,
-  .welcome-to-dactl-container::after {
-    height: 25rem;
-  }
-  .welcome-to-dactl-bleed-container,
-  .welcome-to-dactl-bleed-container::before,
-  .welcome-to-dactl-bleed-container::after {
-    height: 35rem;
-  }
-    @media (max-width: 48rem) {
-        .welcome-to-dactl-container,
-        .welcome-to-dactl-container::before,
-        .welcome-to-dactl-container::after{
-            height: 20rem;
-            margin-bottom: 3rem;
-        }
-    }
-</style>
- <div class="
-    post-title-container
-        welcome-to-dactl welcome-to-dactl-container hero-hov
-  ">
-   <div class="heading-container hero-heading hero-heading-blog">
-     <h1>
-          <a href="/posts/welcome-to-dactl" title="Welcome to dactl!">Welcome to dactl!</a>
-     </h1>
-     <div class="
-        post-meta
-      ">
-        <span>22/03/2017</span>
-        <span>
-              <a href="/tag/dactl">#dactl</a>
-              <a href="/tag/jekyll">#jekyll</a>
-        </span>
-     </div>
-   </div>
- </div>
-     <p class="lead">You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>.
-       <div class="readmore">
-          <a href="/posts/welcome-to-dactl" role="button">Read more</a>
-       <div>
-</article>
- <hr>
-<article class="blog">
-<style>
   .notices {
     margin-bottom: 2em;
   }
@@ -192,7 +119,7 @@
   ">
    <div class="heading-container hero-heading hero-heading-blog">
      <h1>
-          <a href="/posts/notices" title="Notice blocks">Notice blocks</a>
+          <a href="/posts/notices" title="Machine Learning Notes">Machine Learning Notes</a>
      </h1>
      <div class="
         post-meta
@@ -443,6 +370,81 @@ You need to add a correct class <strong>after</strong> the paragraph:
 <p>Please make sure to do the following for each tag:
        <div class="readmore">
           <a href="/posts/tags-in-dactyl" role="button">Read more</a>
+       <div>
+</article>
+ <hr>
+<article class="blog">
+<style>
+  .post-excerpts-lead-paragraphs {
+    margin-bottom: 2em;
+  }
+  .post-excerpts-lead-paragraphs::before {
+    background-image: url('https://source.unsplash.com/collection/261936/');
+    background-size: cover;
+    -webkit-filter: grayscale(1) brightness(0.5) contrast(0.5);
+    content:'';
+    position:absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: -2;
+  }
+  .post-excerpts-lead-paragraphs::after {
+    content:'';
+    position:absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    background-color: rgba(0,100,255,0.8);
+    /*mix-blend-mode: darken;
+    mix-blend-mode: color-burn;
+    mix-blend-mode: hard-light;*/
+    mix-blend-mode: overlay;
+    z-index: -1;
+  }
+  .post-excerpts-lead-paragraphs-container,
+  .post-excerpts-lead-paragraphs-container::before,
+  .post-excerpts-lead-paragraphs-container::after {
+    height: 25rem;
+  }
+  .post-excerpts-lead-paragraphs-bleed-container,
+  .post-excerpts-lead-paragraphs-bleed-container::before,
+  .post-excerpts-lead-paragraphs-bleed-container::after {
+    height: 35rem;
+  }
+    @media (max-width: 48rem) {
+        .post-excerpts-lead-paragraphs-container,
+        .post-excerpts-lead-paragraphs-container::before,
+        .post-excerpts-lead-paragraphs-container::after{
+            height: 20rem;
+            margin-bottom: 3rem;
+        }
+    }
+</style>
+ <div class="
+    post-title-container
+        post-excerpts-lead-paragraphs post-excerpts-lead-paragraphs-container hero-hov
+  ">
+   <div class="heading-container hero-heading hero-heading-blog">
+     <h1>
+          <a href="/posts/post-excerpts-lead-paragraphs" title="Post excerpts and leading paragraphs">Post excerpts and leading paragraphs</a>
+     </h1>
+     <div class="
+        post-meta
+      ">
+        <span>17/03/2017</span>
+        <span>
+              <a href="/tag/dactl">#dactl</a>
+              <a href="/tag/howto">#howto</a>
+        </span>
+     </div>
+   </div>
+ </div>
+     <p class="lead">By default, dactl’s blog layout displays post excerpts which are leading paragraphs as well. This requires some manual work on your part when writing a post but don’t worry - it’s really easy. Read on for more info.
+<h2 id="post-excerpts">Post excerpts</h2>
+<p>First, let’s see how this and the above paragraph looks like in markdown:
+       <div class="readmore">
+          <a href="/posts/post-excerpts-lead-paragraphs" role="button">Read more</a>
        <div>
 </article>
 <nav class="pagination" role="navigation">
