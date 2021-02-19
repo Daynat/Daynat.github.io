@@ -20,6 +20,7 @@ published: true
 
 ## Some heading 
 
-I'll alert the crew. Sure. You'd be surprised how far a hug goes with Geordi, or Worf. Did you come here for something in particular or just general Riker-bashing? You did exactly what you had to do. You considered all your options, you tried every alternative and then you made the hard choice. Your shields were failing, sir. Well, that's certainly good to know. A surprise party? Mr. Worf, I hate surprise parties. I would *never* do that to you. And blowing into maximum warp speed, you appeared for an instant to be in two places at once. How long can two people talk about nothing? I recommend you don't fire until you're within 40,000 kilometers. Congratulations - you just destroyed the Enterprise. Worf, It's better than music. It's jazz. Yes, absolutely, I do indeed concur, wholeheartedly! What's a knock-out like you doing in a computer-generated gin joint like this? I can't. As much as I care about you, my first duty is to the ship. Some days you get the bear, and some days the bear gets you.
+Found Beautiful Meaning in Beautiful things.
+I really need a space to clarify my wide scope of interest. I found it so hard to distinguished between the things I love from the deepest part of my mind and the things I find doing it is aligned with social standard or others' expectation. I am curious about everything but I notice more attention should be allocated to the issues that I am most good at, most interested in and want to dedicate my whole life to. That is the reason why I  create this blog. It is a mirror that reflect my interest and strength and hope the contents are interesting and helpful.
 
 </div>
